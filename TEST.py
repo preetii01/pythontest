@@ -27,5 +27,5 @@ rsintosollars=(rsamout/84)
 print(rsamout,"rs in dollars is",rsintosollars)
 # dollars into rupees
 dollarsamout=int(input("enter the amount in dollars."))
-dollarsintors=(dollarsamout/84)
+dollarsintors=(dollarsamout*84)
 print(dollarsamout," dollars in rs is",dollarsintors)
